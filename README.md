@@ -108,7 +108,7 @@ $ echo examples.jsonl | jddf-infer --discriminator-hint=/stuff/arrayOf | jq
             "properties": {
               "array": {
                 "elements": {
-                  "type": "number"
+                  "type": "uint8"
                 }
               }
             }
