@@ -23,7 +23,7 @@ jddf-infer examples.jsonl
 ```
 
 `jddf-infer` requires that its input be a finite sequence of [JSON
-Lines][jsonlines.org] -- one-line JSON values, separated by newlines.
+Lines](jsonlines.org) -- one-line JSON values, separated by newlines.
 Essentially, that means the input has to look something like:
 
 ```text
