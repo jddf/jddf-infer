@@ -1,6 +1,6 @@
 # jddf-infer
 
-`jddf-infer` generates a jddf schema from example values. It's useful for when
+`jddf-infer` generates a JDDF schema from example values. It's useful for when
 you want to put together the skeleton of a schema quickly, just using example
 data.
 
