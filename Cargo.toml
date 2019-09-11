@@ -1,5 +1,7 @@
 [package]
 name = "jddf-infer"
+description = "Infer a JDDF schema from example data"
+license = "MIT"
 version = "0.1.0"
 authors = ["Ulysse Carion <ulyssecarion@gmail.com>"]
 edition = "2018"
